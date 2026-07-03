@@ -1,0 +1,3 @@
+prefix     = "az104net"
+location   = "eastus"
+my_ip_cidr = "1.2.3.4/32"  # run: curl ifconfig.me
